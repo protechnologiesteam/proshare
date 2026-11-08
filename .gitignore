@@ -1,0 +1,8 @@
+node_modules/
+*-oncesi
+*.onceki
+*.yedek*
+*.canli-yedek
+.turn
+config.yml
+yetkiler.txt

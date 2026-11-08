@@ -1,0 +1,9 @@
+{
+  "name": "proshare",
+  "version": "2.0.0",
+  "private": true,
+  "description": "ProShare - Cloudflare tüneli üzerinden cihazdan cihaza dosya aktarımı",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}

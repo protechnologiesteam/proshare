@@ -1,0 +1,15 @@
+{
+  "name": "ProShare",
+  "short_name": "ProShare",
+  "description": "Cihazlar arasında doğrudan dosya ve mesaj, aynı ağda ya da uzakta",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F172A",
+  "theme_color": "#0F172A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
